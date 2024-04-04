@@ -1,7 +1,4 @@
 # javaprogramm
-series of example
-package Average;
-
 public class Averagerun {
 
 	public static void main(String[] args) {
